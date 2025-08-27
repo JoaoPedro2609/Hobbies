@@ -6,16 +6,40 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat:wght@400..700&display=swap');
 
-h1{
+.h1f{
     font-family: "Oswald", sans-serif;
 }
 
-p{
+.pf{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h1{
+.a1f{
+    font-family: "Caveat", cursive;
+    color: rgb(0, 13, 255);
+    font-size: large;
+    float: left;
+    background-color: white;
+    border: 1px solid rgb(255, 255, 255); padding: 10px;
+}
+
+.a2f{
+    font-family: "Caveat", cursive;
+    color: rgb(0, 13, 255);
+    font-size: large;
+    float: left;
+    background-color: white;
+    border: 1px solid rgb(255, 255, 255); padding: 10px; 
+}
+
+.body1f{
+    background-image: url(https://wallpapers.com/images/hd/free-fire-pictures-5lken9okursv4rw6.jpg);
+    
+}
+
+.h1f{
     background-color: rgb(255, 255, 255);
     /* border: 5px solid rgb(5, 49, 145); */
     border-top: 10px ;
@@ -31,20 +55,81 @@ h1{
     /* margin: 20px; */
     margin: 20px 10px 20px 10px;
 }
-
-p{
+ 
+.p1f{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 30px;
+}
+.p2f{
     width: 500px;
     height: 100px;
     padding: 10px;
     margin: 30px;
 }
 
-.p1{
+.h1f{
+    color: white;
+    background-color: black;
+}
+
+.p1f{
+    
     background-color: darkgray;
     box-shadow: 0px 0px 10px 10px grey;
+    margin: -240px 0 150px 135px ;
+}
+.p2f{
+    background-color: darkgray;
+    box-shadow: 0px 0px 10px 10px grey;
+    margin: 240px 20px 35px 750px;
 }
 
-.video1{
+.video1f{
+    margin: 20px 80px 20px 20px;
+    padding: 1px 0 0 0 ;
+    border:  15px rgb(0, 0, 0);
+    border-style: groove;
     border-radius: 30px;
+    box-shadow: 0px 0px 0px 10px black;
+    width: 600px; 
+    height: 300px;
+    
+}
+.img1f{
+    margin: -220px 20px 20px 80px;
+    padding: 1px 0 0 0 ;
+    border:  15px rgb(0, 0, 0);
+    border-style: groove;
+    border-radius: 30px;
+    box-shadow: 0px 0px 0px 10px black;
+    width: 600px; 
+    height: 300px;
+}
+/* ____________________________________________________________________________________________________________________________ */
+
+.body2b{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeM8gQrNU6QZs6H5exWd3xXJWaKGjhg0RDmA&s);
+    background-size: cover;
 }
 
+.h1b{
+    background-color: rgb(255, 255, 255);
+    border-top: 10px ;
+    border-radius: 30px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+    padding: 10px 5px 5px 10px;
+    margin: 20px 10px 20px 10px;
+}
+
+.pb{
+    width: 500px;
+    height: 145px;
+    padding: 10px;
+    margin: 30px;
+    background-color: white;
+    border:  solid black;
+    box-shadow: 0px 0px 10px 10px grey;
+}

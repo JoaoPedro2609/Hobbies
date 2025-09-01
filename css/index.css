@@ -16,23 +16,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.a1f{
-    font-family: "Caveat", cursive;
-    color: rgb(0, 13, 255);
-    font-size: large;
-    float: left;
-    background-color: white;
-    border: 1px solid rgb(255, 255, 255); padding: 10px;
-}
-
-.a2f{
-    font-family: "Caveat", cursive;
-    color: rgb(0, 13, 255);
-    font-size: large;
-    float: left;
-    background-color: white;
-    border: 1px solid rgb(255, 255, 255); padding: 10px; 
-}
 
 .body1f{
     background-image: url(https://wallpapers.com/images/hd/free-fire-pictures-5lken9okursv4rw6.jpg);
@@ -139,8 +122,71 @@
     width: 500px;
     height: 145px;
     padding: 10px;
-    margin: 30px;
+    margin: 30px 30px 30px 750px;
     background-color: white;
     border:  solid black;
     box-shadow: 0px 0px 10px 10px grey;
+}
+
+.pb2{
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+    margin: 30px 30px -50px 750px;
+    background-color: white;
+    border:  solid black;
+    box-shadow: 0px 0px 10px 10px grey;
+    
+}
+
+.img1{
+    margin: -130px 30px 30px 30px;
+    float: right;
+}
+
+.img2{
+    margin: -130px 30px 30px 30px;
+    float: left;
+}
+
+/* ________________________________________________________________________________________________________________________________________ */
+.body3a{
+    background-image: url(https://assets-cdn.wellhub.com/images/?su=https://images.partners.gympass.com/image/partners/327e7adb-9cf3-419d-866a-be850514ca15/lg_6607c736-4d13-426e-aef6-f31611bc4a46_Capturadetela20250409174622.png);
+    background-size: cover;
+}
+
+
+.h1a{
+    background-color: rgb(255, 255, 255);
+    border-top: 10px ;
+    border-radius: 30px;
+    border-style: groove;
+    border-color: rgb(0, 0, 0);
+    padding: 10px 5px 5px 10px;
+    margin: 20px 10px 20px 10px;
+}
+
+.p1a{
+    width: 500px;
+    height: 110px;
+    padding: 10px;
+    margin: 50px 30px 30px 37%;
+    background-color: white;
+    border:  solid black;
+    box-shadow: 0px 0px 10px 10px grey;
+}
+
+.img1a{
+    text-align: center;
+}
+
+
+
+a{
+    font-family: "Caveat", cursive;
+    color: rgb(0, 13, 255);
+    font-size: large;
+    float: left;
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgb(17, 0, 248); padding: 10px; 
 }
